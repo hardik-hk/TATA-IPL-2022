@@ -1,14 +1,5 @@
 [
-{
-        "teamonename": "CSK",
-        "teamtwoname": "KKR",
-        "teamonelogo": "https://github.com/hardik-hk/TATA-IPL-2022/blob/main/IPL_TEAM_LOGO/Chennai%20Super%20Kings.png?raw=true",
-        "teamtwologo": "https://github.com/hardik-hk/TATA-IPL-2022/blob/main/IPL_TEAM_LOGO/Kolkata%20Knight%20Riders.png?raw=true",
-        "Time": "7:30 PM",
-        "venue": "Mumbai",
-        "date": "26 March 22",
-        "matchnumber": "1"
-     },
+
 {
         "teamonename": "SRH",
         "teamtwoname": "RR",
