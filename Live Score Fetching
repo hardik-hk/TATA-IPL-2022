@@ -1,1 +1,5 @@
-https://hardikhk.herokuapp.com/cri.php?url=https://www.cricbuzz.com/live-cricket-scores/35877/1st-test-england-tour-of-west-indies-2022
+[
+{
+"LINK": {"FETCH_SCORE": "https://hardikhk.herokuapp.com/cri.php?url=https://www.cricbuzz.com/live-cricket-scores/35877/1st-test-england-tour-of-west-indies-2022" }
+}
+]
