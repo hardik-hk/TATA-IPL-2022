@@ -1,5 +1,7 @@
 [
 {
-"LINK": {"FETCH_SCORE": "https://hardikhk.herokuapp.com/cri.php?url=https://www.cricbuzz.com/live-cricket-scores/40353/2nd-test-australia-tour-of-pakistan-2022" }
+"LINK": {"FETCH_SCORE": "https://hardikhk.herokuapp.com/cri.php?url=https://www.cricbuzz.com/live-cricket-scores/40353/2nd-test-australia-tour-of-pakistan-2022" } ,
+"LIVE_TEAM_ONE": {"TEAM_ONE_LOGO": "" } ,
+"LIVE_TEAM_TWO": {"TEAM_TWO_LOGO": "" } 
 }
 ]
