@@ -2,6 +2,6 @@
 {
 "LINK": {"FETCH_SCORE": "https://hardikhk.herokuapp.com/cri.php?url=https://www.cricbuzz.com/live-cricket-scores/40353/2nd-test-australia-tour-of-pakistan-2022" } ,
 "LIVE_TEAM_ONE": {"TEAM_ONE_LOGO": "https://github.com/hardik-hk/TATA-IPL-2022/blob/main/LIVE_MATCH_TEAM_LOGO/australia_cricket_team_logo-removebg-preview.png?raw=true" } ,
-"LIVE_TEAM_TWO": {"TEAM_TWO_LOGO": "https://github.com/hardik-hk/TATA-IPL-2022/blob/main/LIVE_MATCH_TEAM_LOGO/pakistan-removebg-preview.png?raw=true" } 
+"LIVE_TEAM_TWO": {"TEAM_TWO_LOGO": "https://github.com/hardik-hk/TATA-IPL-2022/blob/main/LIVE_MATCH_TEAM_LOGO/pakistan_cricket_team_logo.png?raw=true" } 
 }
 ]
