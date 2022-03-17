@@ -2,7 +2,7 @@
 {
 "ONLY_FOR_DEMO_LINK": {"DO_NOT_DELETE_THIS_LINK": "https://hardikhk.herokuapp.com/cri.php?url=" } ,
 "LINK": {"FETCH_SCORE": "https://hardikhk.herokuapp.com/cri.php?url=https://www.cricbuzz.com/live-cricket-scores/32478/nzw-vs-rsaw-16th-match-icc-womens-world-cup-2022" } ,
-"LIVE_TEAM_ONE": {"TEAM_ONE_LOGO": "https://github.com/hardik-hk/TATA-IPL-2022/blob/main/LIVE_MATCH_TEAM_LOGO/pakistan_cricket_team_logo.png?raw=true" } ,
-"LIVE_TEAM_TWO": {"TEAM_TWO_LOGO": "https://github.com/hardik-hk/TATA-IPL-2022/blob/main/LIVE_MATCH_TEAM_LOGO/australia_cricket_team_logo-removebg-preview.png?raw=true" } 
+"LIVE_TEAM_ONE": {"TEAM_ONE_LOGO": "https://github.com/hardik-hk/TATA-IPL-2022/blob/main/LIVE_MATCH_TEAM_LOGO/South_Africa_logo.png?raw=true" } ,
+"LIVE_TEAM_TWO": {"TEAM_TWO_LOGO": "https://github.com/hardik-hk/TATA-IPL-2022/blob/main/LIVE_MATCH_TEAM_LOGO/New_Zealand_Cricket_logo.png?raw=true" } 
 }
 ]
