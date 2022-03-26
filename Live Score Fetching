@@ -1,7 +1,7 @@
 [
 {
 "ONLY_FOR_DEMO_LINK": {"DO_NOT_DELETE_THIS_LINK": "https://hardikhk.herokuapp.com/cri.php?url=" } ,
-"LINK": {"FETCH_SCORE": "https://hardikhk.herokuapp.com/cri.php?url=https://www.cricbuzz.com/live-cricket-scores/40358/3rd-test-australia-tour-of-pakistan-2022" } ,
+"LINK": {"FETCH_SCORE": "https://hardikhk.herokuapp.com/cri.php?url=https://www.cricbuzz.com/live-cricket-scores/45886/csk-vs-kkr-1st-match-indian-premier-league-2022" } ,
 "LIVE_TEAM_ONE": {"TEAM_ONE_LOGO": "https://github.com/hardik-hk/TATA-IPL-2022/blob/main/IPL_TEAM_LOGO/Chennai%20Super%20Kings.png?raw=true" } ,
 "LIVE_TEAM_TWO": {"TEAM_TWO_LOGO": "https://github.com/hardik-hk/TATA-IPL-2022/blob/main/IPL_TEAM_LOGO/Kolkata%20Knight%20Riders.png?raw=true" } 
 }
