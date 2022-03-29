@@ -2,6 +2,7 @@
 {
 "LINK": {"FETCH_B": "https://qwertyuicricketqwertyuiopqwertyuiopqw.blogspot.com/" },
 "LINK_TWO": {"FETCH_B_TWO": "http://t20live.mylivecricket.live/" },
-"LINK_THREE": {"FETCH_LINK": "https://www.iplt20.com/video/all" }
+"LINK_THREE": {"FETCH_LINK": "https://www.iplt20.com/video/all" },
+"LINK_FOUR": {"FETCH_LINK_FOUR": "https://www.iplt20.com/teams/men" }
 }
 ]
